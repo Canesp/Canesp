@@ -3,29 +3,7 @@
 
 I'm Philip de Canésie, a AI/ML student based in Gothenburg, Sweden.
 
----
 
-## About Me
-
-I have a passion for [Your Interests]. I'm always looking for new challenges and opportunities to learn and grow.
-
-## Skills
-
-- 💻 [Your Technical Skills]
-- 🎨 [Your Creative Skills]
-- 📈 [Your Business Skills]
-
-## Projects
-
-Here are some of my recent projects:
-
-- [Project Name](https://project-url.com): [Project Description]
-- [Project Name](https://project-url.com): [Project Description]
-- [Project Name](https://project-url.com): [Project Description]
-
-## Contact
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-url) or [Twitter](https://twitter.com/your-twitter-handle). You can also check out my [personal website](https://your-website-url.com).
                                                                                      
 
 <!--
