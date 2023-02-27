@@ -1,6 +1,9 @@
+
 # Hi there! 👋
 
-I'm [Your Name], a [Your Job Title] based in [Your Location].
+I'm Philip de Canésie, a AI/ML student based in Gothenburg, Sweden.
+
+---
 
 ## About Me
 
