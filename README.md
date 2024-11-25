@@ -1,7 +1,7 @@
 
 # Hi there! 👋
 
-I'm Philip de Canésie, a AI/ML student based in Gothenburg, Sweden.
+I'm Philip de Canésie, a AI/ML Engineer based in Gothenburg, Sweden.
 
 
                                                                                      
